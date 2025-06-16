@@ -1,0 +1,3 @@
+This project implements an AA Tree in C, a form of balanced binary search tree. The AA Tree maintains balance using `skew` and `split` operations, offering efficient insertion, deletion, and search. It includes in-order, 
+pre-order, and post-order traversals, and functions to calculate height, count nodes, and find minimum/maximum values. A simple menu-driven CLI allows users to interactively manage the tree. Memory is managed efficiently with proper cleanup.
+This project is ideal for learning balanced trees and practicing data structures in C. Compile with `gcc` and run the executable to get started. Licensed under the MIT License.
